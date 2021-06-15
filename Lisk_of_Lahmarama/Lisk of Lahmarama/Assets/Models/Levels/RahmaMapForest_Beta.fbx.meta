@@ -1,0 +1,175 @@
+fileFormatVersion: 2
+guid: a82933e5113d4ca41bd0aa1d78cf8012
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      74: -5256834666838112031
+    second: Full Combo.001
+  - first:
+      74: -7974572939799270116
+    second: ChibiGiebelRig|Base
+  - first:
+      74: -1460943430144421527
+    second: ChibiGiebelRig|Bash 1
+  - first:
+      74: 6302555914769414124
+    second: ChibiGiebelRig|Bash 2
+  - first:
+      74: -3852479387224551976
+    second: ChibiGiebelRig|Bash 3
+  - first:
+      74: -6298545927523720787
+    second: ChibiGiebelRig|Bash 4
+  - first:
+      74: 5886755017425685899
+    second: ChibiGiebelRig|Bash Full Combo
+  - first:
+      74: -1759622790560119819
+    second: ChibiGiebelRig|BS Attack
+  - first:
+      74: -2351115561770313717
+    second: ChibiGiebelRig|Damaged
+  - first:
+      74: -4841721104555442059
+    second: ChibiGiebelRig|Idle
+  - first:
+      74: 8498592033184439042
+    second: ChibiGiebelRig|Jump
+  - first:
+      74: -1143250776332303842
+    second: ChibiGiebelRig|Jump Bash 1
+  - first:
+      74: -7176105221306596500
+    second: ChibiGiebelRig|Jump Slash 1
+  - first:
+      74: 6435915616820148490
+    second: ChibiGiebelRig|Jump Slash 2
+  - first:
+      74: -1763032816285238124
+    second: ChibiGiebelRig|Jump Slash Full Combo
+  - first:
+      74: -917316534124242232
+    second: ChibiGiebelRig|Running
+  - first:
+      74: 2671958007430941896
+    second: ChibiGiebelRig|Slash 1
+  - first:
+      74: -3855099952019384307
+    second: ChibiGiebelRig|Slash 2
+  - first:
+      74: 4647546394551832040
+    second: ChibiGiebelRig|Slash 3
+  - first:
+      74: -7186628274224711525
+    second: ChibiGiebelRig|Slash 4
+  - first:
+      74: 8379695392753761745
+    second: ChibiGiebelRig|Slash 5
+  - first:
+      74: 4081365120763449821
+    second: ChibiGiebelRig|Slash Full Combo
+  - first:
+      74: -9079144722050960328
+    second: ChibiGiebelRig|Special Bow
+  - first:
+      74: -2530066983557374470
+    second: ChibiGiebelRig|SSBB Attack
+  - first:
+      74: 7677009798872814939
+    second: ChibiGiebelRig|Super SF
+  - first:
+      74: -7140545789382879386
+    second: ChibiGiebelRig|Super SS
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
